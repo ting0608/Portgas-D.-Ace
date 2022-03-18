@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>website 1</title>
+        <title>ACE</title>
         <link rel="stylesheet" type="text/css" href="style.css">
     
     </head>
@@ -10,11 +10,12 @@
     <body>
 
         <header>
-        <a href="#" class="logo">logo</a>
+        <a href="#" class="logo">ONE PIECE</a>
+        <img src="wb.png" id="wb" width="60px" height="60px" >
         <ul>
             <li><a href="#" class="active">Home</a></li>
             <li><a href="#info" id = "abt">About</a></li>
-            <li><a href="#">Career</a></li>
+            <li><a href="career.html">Career</a></li>
             <li><a href="#">ContactMe</a></li>
         </ul>
         </header>
@@ -45,8 +46,20 @@
                 let sky = document.getElementById('sky');
                 let ace = document.getElementById('ace');
                 let text = document.getElementById('text');
+                let text2 = document.getElementById('text2');
+                let text3 = document.getElementById('text3');
+                let text4 = document.getElementById('text4');
                 let btn = document.getElementById('abt');
+                
+                window.addEventListener('scroll',function(){
+                    let value = window.scrollY;
+                    text.style.top = value *1.05+ 'px';
+                    text2.style.left = value +'px';
+                    text3.style.left = value +'px';
+                    text4.style.left = value +'px';
+                    ace.style.top = value * 0.7 +'px';
 
+                })
             </script>
 
     </body>
