@@ -8,5 +8,5 @@ start from 19/3/2021
 
 
 # Main/index page
-![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/index1.jpg?raw=true)
-![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/index2.jpg?raw=true)
+![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/image/index1.jpg?raw=true)
+![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/image/index2.jpg?raw=true)
