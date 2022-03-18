@@ -4,7 +4,9 @@ First try on parallex scrolling effects, with z-index.
 IDE: visual studio code.
 language: html, css
 start from 19/3/2021
-![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/sky.jpg?raw=true)
+
 
 
 # Main/index page
+![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/index1.jpg?raw=true)
+![alt text](https://github.com/ting0608/Portgas-D.-Ace/blob/master/index2.jpg?raw=true)
